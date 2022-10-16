@@ -12,9 +12,9 @@ const Navbar = () => {
 
             {/* <img src={logo} alt="hoobank" className="w-[80px] h-[52px] "
              /> */}
-             <h2 className="text-white font-extrabold ">Global</h2> 
+             <h2 className="text-white font-extrabold text-xl ">Global</h2> 
             <h2>   .</h2>
-            <h2 className="text-gradient font-extrabold"> Internet Fortunes</h2>{" "}
+            <h2 className="text-gradient font-extrabold text-xl"> Internet Fortunes</h2>{" "}
         
 
 

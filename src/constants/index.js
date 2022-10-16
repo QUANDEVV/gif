@@ -70,7 +70,7 @@ export const feedback = [
   {
     id: "feedback-2",
     content:
-      "Money makes your life easier. If you're lucky to have it, you're lucky.",
+      "Wow 😍😍 best way to make money online I recommend Global Internet Fortunes",
     name: "Steve Mark",
     title: "Client",
     img: people02,
@@ -78,7 +78,7 @@ export const feedback = [
   {
     id: "feedback-3",
     content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
+      "It is usually people in online business are rich. Join Global internet Fortunes now",
     name: "Kenn Gallagher",
     title: "Client",
     img: people03,

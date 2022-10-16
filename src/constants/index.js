@@ -6,8 +6,8 @@ export const navLinks = [
     title: "Home",
   },
   {
-    id: "features",
-    title: "About Us",
+    id: "services",
+    title: "Our Services",
   },
   {
     id: "product",
@@ -27,27 +27,34 @@ export const navLinks = [
   },
 ];
 
-export const features = [
+export const services = [
   {
-    id: "feature-1",
+    id: "service-1",
     icon: star,
-    title: "Rewards",
+    title: "E-Learning",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "We imagine a world in which anybody, anywhere has the ability to change their life via eLearning. Learning is the source of human progress.",
   },
   {
-    id: "feature-2",
+    id: "service-2",
     icon: shield,
-    title: "100% Secured",
+    title: "Domain Registration",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      "We identify one or more IP addresses with a name that is easier to remember and use in URLs to identify particular Web pages.",
   },
   {
-    id: "feature-3",
+    id: "service-3",
     icon: send,
-    title: "Balance Transfer",
+    title: "Managed Web Hosting",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "We own dedicated servers and associated hardware to a single customer and we manage those systems on the customer’s behalf.",
+  },
+  {
+    id: "service-4",
+    icon: send,
+    title: "Network Marketing",
+    content: 
+    "In this setup, the Company focuses on providing the Products to the Distributors as well as in providing sales training and sales kit … ",
   },
 ];
 
@@ -81,19 +88,20 @@ export const feedback = [
 export const stats = [
   {
     id: "stats-1",
+    title: "Clients",
+    value: "2.3M+",
+  },
+  {
+    id: "stats-2",
     title: "User Active",
     value: "3800+",
   },
   {
-    id: "stats-2",
+    id: "stats-3",
     title: "Trusted by Company",
     value: "230+",
   },
-  {
-    id: "stats-3",
-    title: "Transaction",
-    value: "$230M+",
-  },
+
 ];
 
 export const footerLinks = [
